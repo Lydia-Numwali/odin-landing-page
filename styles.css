@@ -85,7 +85,7 @@ figure img{
 }
 
 
-.quote{
+.text{
     width: 100%;
     padding: 10%;
     margin: 5%;
@@ -94,7 +94,7 @@ figure img{
     color: #1F2937;
     font-size: 36px;
 }
-.quote span{
+.text span{
     font-weight: bold;
     font-size: 28px;
     margin: 10px;
